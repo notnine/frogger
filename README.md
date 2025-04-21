@@ -78,7 +78,7 @@ This was a fun and challenging low-level programming project with sound, animati
 ## 🧠 Built With
 - MIPS Assembly
 - MARS Simulator
-- A lot of patience and pixel math 😄
+- A lot of patience and pixel math
 
 ---
 
