@@ -1,6 +1,6 @@
 # 🐸 Frogger in MIPS Assembly
 
-A simple version of the classic *Frogger* game built entirely in **MIPS Assembly**, designed to run in the [MARS MIPS Simulator]([http://courses.missouristate.edu/kenvollmar/mars/](https://github.com/dpetersanderson/MARS?tab=readme-ov-file)).  
+A simple version of the classic *Frogger* game built entirely in **MIPS Assembly**, designed to run in the [MARS MIPS Simulator](https://github.com/dpetersanderson/MARS).  
 
 This was a fun and challenging low-level programming project with sound, animation, keyboard input, and visual display — all built from the ground up!
 
