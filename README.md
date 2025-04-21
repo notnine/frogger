@@ -30,7 +30,7 @@ This was a fun and challenging low-level programming project with sound, animati
 ## 🚀 How to Play
 
 ### 1. Download MARS
-- [Download MARS 4.5 here]([http://courses.missouristate.edu/kenvollmar/mars/MARS_4_5_Aug2014.jar](https://dpetersanderson.github.io/))
+- [Download MARS 4.5 here](https://dpetersanderson.github.io/)
 - Run it by double-clicking the `.jar` file (Java required)
 
 ### 2. Open the Game
