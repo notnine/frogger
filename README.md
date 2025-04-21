@@ -70,7 +70,8 @@ This was a fun and challenging low-level programming project with sound, animati
 
 ## 📸 Preview
 
-*(Include a screenshot or short GIF here if you have one!)*
+![frogger_screenshot](https://github.com/user-attachments/assets/6b22e422-4544-4ebb-836a-e2b72d3cd5fb)
+
 
 ---
 
